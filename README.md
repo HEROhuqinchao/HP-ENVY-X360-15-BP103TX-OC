@@ -4,7 +4,7 @@ OC引导
 惠普ENVY X360 15-bp103tx.  
 
 
-   电脑型号    :HP Envy X360 15 bp105tx.  
+   电脑型号    :HP Envy X360 15 bp103tx.  
    
    CPU        :I5-8250U.  
    
