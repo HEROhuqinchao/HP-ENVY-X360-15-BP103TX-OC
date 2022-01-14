@@ -60,6 +60,6 @@
  ---- | ----- | ------  
  zenws  | <a href="http://i.pcbeta.com/?19526" target="_blank">  远景论坛</a> | 💖 
  大灰狼  | <a href="http://i.pcbeta.com/?4851405" target="_blank">  远景论坛</a> | 💖   
- 黑果小兵的部落阁  | <a href="https://blog.daliansky.net/" target="_blank">  远景论坛</a> | 💖 
+ 黑果小兵的部落阁  | <a href="https://blog.daliansky.net/" target="_blank">  个人博客</a> | 💖 
  ---- | ----- | ------  
 
