@@ -57,6 +57,18 @@
 *  睡眠正常（USB设备会重启）     
 
 ---------------------------------------------   
+###  【随手记】
+ ---- | ----- | ------  
+ 
+BrcmPatchRAM  | <a href="https://github.com/acidanthera/BrcmPatchRAM" target="_blank">  BrcmPatchRAM</a> | 赞💖
+ AirportBrcmFixup  | <a href="https://github.com/acidanthera/AirportBrcmFixup" target="_blank">  AirportBrcmFixup </a> | 赞💖    
+VirtualSMC  | <a href="https://github.com/acidanthera/VirtualSMC" target="_blank">  VirtualSMC</a> | 赞💖
+VoodooInput  | <a href="https://github.com/acidanthera/VoodooInput" target="_blank">  VoodooInput</a> | 赞💖
+AppleALC  | <a href="https://github.com/acidanthera/AppleALC" target="_blank">  AppleALC</a> | 赞💖
+WhateverGreen  | <a href="https://github.com/acidanthera/WhateverGreen" target="_blank">  WhateverGreen</a> | 赞💖
+ ---- | ----- | ------  
+
+---------------------------------------------   
 ###  【感谢】
 ##### 感谢大佬提供教程 和 一些配置文件
 大佬  | 主页地址  | 文档
