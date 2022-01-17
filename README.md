@@ -58,6 +58,7 @@
 
 ---------------------------------------------   
 ###  【随手记】
+驱动  | 编译地址  | 文档
  ---- | ----- | ------  
 BrcmPatchRAM  | <a href="https://github.com/acidanthera/BrcmPatchRAM" target="_blank">  BrcmPatchRAM</a> | 赞💖
  AirportBrcmFixup  | <a href="https://github.com/acidanthera/AirportBrcmFixup" target="_blank">  AirportBrcmFixup </a> | 赞💖    
