@@ -66,6 +66,9 @@ VirtualSMC  | <a href="https://github.com/acidanthera/VirtualSMC" target="_blank
 VoodooInput  | <a href="https://github.com/acidanthera/VoodooInput" target="_blank">  VoodooInput</a> | 赞💖
 AppleALC  | <a href="https://github.com/acidanthera/AppleALC" target="_blank">  AppleALC</a> | 赞💖
 WhateverGreen  | <a href="https://github.com/acidanthera/WhateverGreen" target="_blank">  WhateverGreen</a> | 赞💖
+
+Hackintosh-Kext  | <a href="https://github.com/ClayMoreBoy/Hackintosh-Kext-Factory" target="_blank">  Hackintosh-Kext</a> | 赞💖 （黑苹果驱动自动更新全量包）
+
  ---- | ----- | ------  
 
 ---------------------------------------------   
