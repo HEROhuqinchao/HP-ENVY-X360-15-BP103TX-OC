@@ -59,7 +59,6 @@
 ---------------------------------------------   
 ###  【随手记】
  ---- | ----- | ------  
- 
 BrcmPatchRAM  | <a href="https://github.com/acidanthera/BrcmPatchRAM" target="_blank">  BrcmPatchRAM</a> | 赞💖
  AirportBrcmFixup  | <a href="https://github.com/acidanthera/AirportBrcmFixup" target="_blank">  AirportBrcmFixup </a> | 赞💖    
 VirtualSMC  | <a href="https://github.com/acidanthera/VirtualSMC" target="_blank">  VirtualSMC</a> | 赞💖
