@@ -73,6 +73,7 @@ VoodooInput  | <a href="https://github.com/acidanthera/VoodooInput" target="_bla
 AppleALC  | <a href="https://github.com/acidanthera/AppleALC" target="_blank">  AppleALC</a> | 赞💖
 WhateverGreen  | <a href="https://github.com/acidanthera/WhateverGreen" target="_blank">  WhateverGreen</a> | 赞💖
 Hackintosh-Kext  | <a href="https://github.com/ClayMoreBoy/Hackintosh-Kext-Factory" target="_blank">  Hackintosh-Kext</a> | 赞💖 （黑苹果驱动自动更新全量包）
+OCAuxiliaryTools  | <a href="https://github.com/ic005k/OCAuxiliaryTools" target="_blank">  OCAuxiliaryTools</a> | 赞💖 （黑苹果全自动更新工具）
 
  ---- | ----- | ------  
 
